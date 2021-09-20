@@ -1,6 +1,11 @@
 ![image](https://user-images.githubusercontent.com/82178046/133949967-b01ae4c3-d8f6-43c1-a716-45e459928c6b.png)
 
 ## About Me 👋
+Hey there, my name is Michael Aguilar, and I am a full stack web-developer who is from Los Angeles, CA. I have always been a very curious person, and ever since my first encounter to programming in my previous line of work in Biotech, I have been hooked🎣. I was amazed at the countless amount of things one can do using programming. From the plethora of languages and libraries, to the endless possibilities one can proceed using these languages, which I absolutely enjoy. 
+
+I am a self motivated, hard working individual who is detail-oriented. I have past experience in Biotech working for 3 years in a team oriented setting, but also worked individually as well. During my time in Biotech, I had the opportunity to help mentor other fellow new hires, or through cross-training. 
+
+In my spare time from programming, some of the things that I enjoy include sports, video games, and reading books. 😄
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-M-Aguilar&show_icons=true&theme=tokyonight)
 
