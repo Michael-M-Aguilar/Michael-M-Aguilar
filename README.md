@@ -17,7 +17,7 @@ In my spare time from programming, some of the things that I enjoy include sport
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/82178046/133949558-3c3158e5-c9c2-4b9a-8ae3-bf0efa2952b1.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/82178046/133949585-f8ce4f37-8450-432f-ab0b-5ac33be0df90.png)
 
-## Tools and Libraries I work with: 
+## Frameworks/Tools/Libraries I work with: 
 ![icons8-react-native-48](https://user-images.githubusercontent.com/82178046/133949334-c50720cf-0edf-44df-8711-4e59d5a19e52.png)
 ![icons8-npm-48](https://user-images.githubusercontent.com/82178046/133949561-4896d5ba-1818-4e71-ae6a-98a3ada6629b.png)
 ![icons8-docker-48](https://user-images.githubusercontent.com/82178046/133949564-73b6fc5b-7d13-4d2e-8451-8a01251a2516.png)
